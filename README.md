@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF7F,100:0066FF&height=180&section=header&text=Samir%20Lade&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Enthusiast%20|%20Data%20Scientist%20|%20Full%20Stack%20Developer&descAlignY=55&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF7F,100:0066FF&height=180&section=header&text=Samir%20Lade&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Enthusiast%20|%20Data%20Scientist%20|%20Machine%20Learning%20Engineer&descAlignY=55&descSize=20" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00FF7F&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!+👋;AI+and+Machine+Learning+Engineer+🤖;Building+Production+Ready+AI+Solutions+🚀;BCA+at+MIT-WPU+and+IIT+Madras+🎓;Let's+Build+Something+Amazing!+✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00FF7F&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!+👋;Transforming+Ideas+into+Intelligent+Solutions+🤖;Building+AI+Systems+That+Matter+🚀;BCA+at+MIT-WPU+and+IIT+Madras+🎓;Passionate+About+Machine+Learning+%26+Innovation+✨)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Sam-Dev-AI&color=00ff7f&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Sam-Dev-AI)
 [![GitHub Followers](https://img.shields.io/github/followers/Sam-Dev-AI?style=for-the-badge&color=00ff7f&logo=github)](https://github.com/Sam-Dev-AI)
@@ -16,14 +16,14 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-I'm a passionate **AI & Data Science enthusiast** committed to building intelligent, scalable solutions. Currently pursuing dual degrees and developing **production-ready AI applications** that solve real-world problems.
+I'm a **first-year BCA student** with a deep passion for **Artificial Intelligence and Data Science**. I believe in learning by building—creating real-world AI applications that solve meaningful problems. My journey combines academic excellence with hands-on project experience.
 
 - 🎓 **First Year BCA** at MIT-WPU, Pune | **BSc in AI & Data Science** at IIT Madras
-- 🧠 Focused on **Machine Learning**, **Deep Learning**, and **Statistical Modeling**
-- 💼 Building AI-powered apps and projects
+- 🧠 Passionate about **Machine Learning**, **Deep Learning**, and **Data-Driven Solutions**
+- 💼 Building AI-powered apps and innovative projects
 - 🌱 Currently exploring **Agentic AI Systems** and **Cloud-Native Development**
-- 🎯 Planning to pursue **MCA** after graduation
-- 📫 Reach me: **ladesamir10@gmail.com**
+- 🎯 Planning to pursue **MCA** to deepen my expertise
+- 📫 Let's connect: **ladesamir10@gmail.com**
 
 <br clear="right"/>
 
@@ -92,7 +92,7 @@ I'm a passionate **AI & Data Science enthusiast** committed to building intellig
 
 <div align="center">
 
-### 💡 *"Building the future with AI, one line of code at a time"* 💡
+### 💡 *"Turning data into insights, and insights into impact"* 💡
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF7F,100:0066FF&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
 
