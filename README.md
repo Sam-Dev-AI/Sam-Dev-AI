@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Samir%20Lade&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Enthusiast%20|%20Data%20Scientist%20|%20Full%20Stack%20Developer&descAlignY=55&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF7F,100:0066FF&height=180&section=header&text=Samir%20Lade&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Enthusiast%20|%20Data%20Scientist%20|%20Full%20Stack%20Developer&descAlignY=55&descSize=20" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&height=100&lines=Welcome+to+my+GitHub+Profile!+👋;AI+%26+Machine+Learning+Engineer+🤖;Building+Production-Ready+Solutions+🚀;BCA+%40+MIT-WPU+%2B+IIT+Madras+🎓;Let's+Build+Something+Amazing!+✨)](https://git.io/typing-svg)
 
@@ -10,7 +10,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+---
 
 ## 🚀 About Me
 
@@ -27,7 +27,7 @@ I'm a passionate **AI & Data Science enthusiast** committed to building intellig
 
 <br clear="right"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+---
 
 ## 🛠️ Tech Stack
 
@@ -76,7 +76,7 @@ I'm a passionate **AI & Data Science enthusiast** committed to building intellig
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+---
 
 ## 🌐 Connect With Me
 
@@ -97,12 +97,12 @@ I'm a passionate **AI & Data Science enthusiast** committed to building intellig
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+---
 
 <div align="center">
 
 ### 💡 *"Building the future with AI, one line of code at a time"* 💡
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF7F,100:0066FF&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
 
 </div>
