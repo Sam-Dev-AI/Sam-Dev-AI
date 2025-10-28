@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&height=100&lines=Welcome+to+my+GitHub+Profile!+👋;AI+%26+Machine+Learning+Engineer+🤖;Building+Production-Ready+Solutions+🚀;BCA+%40+MIT-WPU+%2B+IIT+Madras+🎓;Let's+Build+Something+Amazing!+✨)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
 [![Profile Views](https://komarev.com/ghpvc/?username=Sam-Dev-AI&color=00ff7f&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Sam-Dev-AI)
 [![GitHub Followers](https://img.shields.io/github/followers/Sam-Dev-AI?style=for-the-badge&color=00ff7f&logo=github)](https://github.com/Sam-Dev-AI)
 [![GitHub Stars](https://img.shields.io/github/stars/Sam-Dev-AI?style=for-the-badge&color=00ff7f&logo=github)](https://github.com/Sam-Dev-AI)
@@ -20,31 +18,18 @@
 
 I'm a passionate **AI & Data Science enthusiast** committed to building intelligent, scalable solutions. Currently pursuing dual degrees and developing **production-ready AI applications** that solve real-world problems.
 
-- 🎓 **BCA** at MIT-WPU, Pune | **BSc in AI & Data Science** at IIT Madras
+- 🎓 **First Year BCA** at MIT-WPU, Pune | **BSc in AI & Data Science** at IIT Madras
 - 🧠 Focused on **Machine Learning**, **Deep Learning**, and **Statistical Modeling**
-- 💼 Building AI-powered stock analysis & trading platforms
+- 💼 Building AI-powered apps and projects
 - 🌱 Currently exploring **Agentic AI Systems** and **Cloud-Native Development**
+- 🎯 Planning to pursue **MCA** after graduation
 - 📫 Reach me: **ladesamir10@gmail.com**
-- ⚡ Fun fact: I love cricket and creating creative content!
 
 <br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
-
-</div>
 
 ### **Languages**
 <p align="center">
@@ -67,12 +52,10 @@ I'm a passionate **AI & Data Science enthusiast** committed to building intellig
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
-### **Web Development**
+### **Web Development & Frameworks**
 <p align="center">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
 ### **Cloud & DevOps**
@@ -112,10 +95,6 @@ I'm a passionate **AI & Data Science enthusiast** committed to building intellig
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
@@ -123,8 +102,6 @@ I'm a passionate **AI & Data Science enthusiast** committed to building intellig
 <div align="center">
 
 ### 💡 *"Building the future with AI, one line of code at a time"* 💡
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
 
