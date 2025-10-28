@@ -1,8 +1,9 @@
-<p align="center">
+<div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there%2C+I%27m+Samir!👋;AI+Enthusiast+%7C+Future+Data+Scientist;BCA+%40+MIT--WPU+%26+IIT+Madras&font=Fira%20Code&size=30&duration=4000&pause=500&color=00ff7f&center=true&vCenter=true" alt="Typing Animation" />
+        <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there%2C+I%27m+Samir!👋;AI+Enthusiast+%7C+Future+Data+Scientist;BCA+%40+MIT--WPU+%26+IIT+Madras&font=Fira%20Code&size=30&duration=4000&pause=500&color=00ff7f&center=true&vCenter=true&width=450" alt="Typing Animation" />
     </a>
-</p>
+</div>
+<br>
 
 ### 🔥 Driving Passion: AI & Data Science
 I am highly motivated by creating and deploying **AI-driven projects**. I am committed to building a strong academic and practical foundation to become an expert in the field.
@@ -63,16 +64,3 @@ I am available for discussions on AI, development, and academic projects.
 </p>
 
 ---
-
-### 🕹️ Bonus Animation (Optional: Contribution Snake Game)
-
-You can add this section to your README to generate the animated "snake game" that moves across your contribution graph.
-
-To make this work, you must:
-1.  **Create a GitHub Action** in your repository (a file named `.github/workflows/snake.yml`).
-2.  **Paste the following image code** into your `README.md` file:
-
-```markdown
-<p align="center">
-  <img src="[https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/raw/output/github-contribution-grid-snake.svg](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/raw/output/github-contribution-grid-snake.svg)" alt="github contribution grid snake" />
-</p>
