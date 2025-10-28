@@ -30,9 +30,11 @@ A detailed look at the languages, frameworks, and cloud platforms I use for deve
 
 ---
 
-### 🌐 Let's Connect (Reach Out!)
+### 🌐 Let's Connect (Reach Out!) 🤝
 
 I am available for discussions on AI, development, and academic projects.
+
+**Email:** ladesamir10@gmail.com
 
 <p align="center">
     <a href="https://github.com/Sam-Dev-AI">
