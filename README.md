@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF7F,100:0066FF&height=180&section=header&text=Samir%20Lade&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Enthusiast%20|%20Data%20Scientist%20|%20AI%20Learner&descAlignY=55&descSize=20" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00FF7F&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!+👋;Transforming+Ideas+into+Intelligent+Solutions+🤖;Building+AI+Systems+That+Matter+🚀;BCA+at+MIT-WPU+and+IIT+Madras+🎓;Passionate+About+Machine+Learning+%26+Innovation+✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=00FF7F&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!+👋;AI+and+Machine+Learning+Enthusiast+🤖;Creating+Smart+AI+Solutions+🚀;BCA+Student+at+MIT-WPU+and+IIT+Madras+🎓;Building+the+Future+with+Code+✨)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Sam-Dev-AI&color=00ff7f&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Sam-Dev-AI)
 [![GitHub Followers](https://img.shields.io/github/followers/Sam-Dev-AI?style=for-the-badge&color=00ff7f&logo=github)](https://github.com/Sam-Dev-AI)
