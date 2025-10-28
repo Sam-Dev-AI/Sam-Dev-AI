@@ -1,7 +1,5 @@
 <div align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there%2C+I%27m+Samir!👋;AI+Enthusiast+%7C+Future+Data+Scientist;BCA+%40+MIT--WPU+%26+IIT+Madras&font=Fira%20Code&size=30&duration=4000&pause=500&color=00ff7f&center=true&vCenter=true&width=450" alt="Typing Animation" />
-    </a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there%2C+I%27m+Samir!👋;AI+Enthusiast+%7C+Future+Data+Scientist;BCA+%40+MIT--WPU+%26+IIT+Madras&font=Fira%20Code&size=30&duration=4000&pause=500&color=00ff7f&center=true&vCenter=true&width=450" alt="Typing Animation" />
 </div>
 <br>
 
