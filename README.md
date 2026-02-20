@@ -6,9 +6,9 @@
 
 <br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Sam-Dev-AI&color=00ff7f&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Sam-Dev-AI)
-[![GitHub Followers](https://img.shields.io/github/followers/Sam-Dev-AI?style=for-the-badge&color=00ff7f&logo=github)](https://github.com/Sam-Dev-AI)
 [![Website](https://img.shields.io/badge/Claroz.in-0066FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://claroz.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samir-lade-4645392bc/)
+[![GitHub Followers](https://img.shields.io/github/followers/Sam-Dev-AI?style=for-the-badge&color=00ff7f&logo=github)](https://github.com/Sam-Dev-AI)
 
 </div>
 
@@ -39,22 +39,23 @@
   <h2>💼 Featured Work & Projects</h2>
 </div>
 
-<div align="center">
-  
-  <a href="https://claroz.in">
-    <img src="https://img.shields.io/badge/Claroz.in-Founder_&_CEO-000?style=for-the-badge&logo=google-chrome&logoColor=white&color=0066FF" alt="Claroz" />
-  </a>
-  <br>
-  <p><i>Leading an innovative agency that brings state-of-the-art AI Automation and Premium Web Design to modern businesses.</i></p>
+<table align="center" width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
+<h3><a href="https://claroz.in">🌐 Claroz Agency</a></h3>
+<p><i>Founder & Lead Engineer</i></p>
+<p>An innovative agency that brings state-of-the-art AI Automation and Premium Web Design to modern businesses. We architect custom solutions to drive efficiency and growth.</p>
+<a href="https://claroz.in"><img src="https://img.shields.io/badge/Visit_Claroz.in-0066FF?style=flat-square&logo=google-chrome&logoColor=white" alt="Claroz Web"/></a>
+</td>
 
-  <br><br>
-
-  <!-- Nexus Project Card using reliable stats format -->
-  <a href="https://github.com/Sam-Dev-AI/AI-Stock-Analyst">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sam-Dev-AI&repo=AI-Stock-Analyst&theme=transparent&hide_border=true&title_color=00FF7F&text_color=c9d1d9&icon_color=0066FF&bg_color=0d1117" alt="Nexus AI Stock Analyst" />
-  </a>
-
-</div>
+<td width="50%" align="center" valign="top">
+<h3><a href="https://github.com/Sam-Dev-AI/AI-Stock-Analyst">🤖 Nexus AI Analyst</a></h3>
+<p><i>Autonomous Trading Agent</i></p>
+<p>An advanced AI system engineered for deep stock research, complex technical analysis, and automated paper trading using real-time market data.</p>
+<a href="https://github.com/Sam-Dev-AI/AI-Stock-Analyst"><img src="https://img.shields.io/badge/View_Repository-00FF7F?style=flat-square&logo=github&logoColor=black" alt="Nexus Repo"/></a>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -82,42 +83,7 @@
 
 </div>
 
----
-
-<div align="center">
-  <h2>📊 Real-Time Analytics</h2>
-</div>
-
-<!-- Modern, Reliable Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sam-Dev-AI&theme=react-dark&bg_color=0d1117&color=00FF7F&line=0066FF&point=ffffff&hide_border=true" alt="Samir GitHub Activity Graph" width="100%"/>
-</div>
-
 <br>
-
-<!-- Repaired Static Summary Stats side-by-side -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sam-Dev-AI&show_icons=true&theme=transparent&title_color=00FF7F&text_color=c9d1d9&icon_color=0066FF&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Dev-AI&layout=compact&theme=transparent&title_color=00FF7F&text_color=c9d1d9&bg_color=0d1117&hide_border=true&langs_count=6" alt="Top Languages" />
-</div>
-
-<br>
-
----
-
-<div align="center">
-  <h2>🌟 Connect With Me</h2>
-</div>
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Claroz.in-0066FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://claroz.in)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sam-Dev-AI)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samir-lade-4645392bc/)
-[![Gmail](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ladesamir10@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samir_lade_22/)
-
-</div>
 
 ---
 
