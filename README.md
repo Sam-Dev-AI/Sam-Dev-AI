@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF7F,100:0066FF&height=180&section=header&text=Samir%20Lade&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Enthusiast%20|%20Data%20Scientist%20|%20AI%20Learner&descAlignY=55&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF7F,100:0066FF&height=180&section=header&text=Samir%20Lade&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20of%20Claroz%20|%20AI%20Automation%20Expert%20|%20Data%20Scientist&descAlignY=55&descSize=20" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=00FF7F&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!+👋;AI+and+Machine+Learning+Enthusiast+🤖;Creating+Smart+AI+Solutions+🚀;BCA+Student+at+MIT-WPU+and+IIT+Madras+🎓;Building+the+Future+with+Code+✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=00FF7F&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!+👋;Founder+of+Claroz+AI+Agency+🚀;BCA+Student+at+MIT-WPU+and+IIT+Madras+🎓;Building+the+Future+with+Agentic+AI+✨)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Sam-Dev-AI&color=00ff7f&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Sam-Dev-AI)
 [![GitHub Followers](https://img.shields.io/github/followers/Sam-Dev-AI?style=for-the-badge&color=00ff7f&logo=github)](https://github.com/Sam-Dev-AI)
@@ -14,77 +14,49 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-I'm a **first-year BCA student** with a deep passion for **Artificial Intelligence and Data Science**. I believe in learning by building—creating real-world AI applications that solve meaningful problems. My journey combines academic excellence with hands-on project experience.
+I'm a **Founder and AI Developer** currently pursuing my BCA. I bridge the gap between academic theory and real-world business impact through my agency, **Claroz**. I specialize in building autonomous agents and data-driven web solutions.
 
-- 🎓 **First Year BCA** at MIT-WPU, Pune | **BSc in AI & Data Science** at IIT Madras
-- 🧠 Passionate about **Machine Learning**, **Deep Learning**, and **Data-Driven Solutions**
-- 💼 Building AI-powered apps and innovative projects
-- 🌱 Currently exploring **Agentic AI Systems** and **Cloud-Native Development**
-- 🎯 Planning to pursue **MCA** to deepen my expertise
-- 📫 Let's connect: **ladesamir10@gmail.com**
+- 🏢 **Founder** at [Claroz](https://claroz.in) — *AI Automation & Premium Web Design*
+- 🎓 **Dual Degree Scholar**: BCA at MIT-WPU, Pune | BSc in AI & Data Science at IIT Madras
+- 🤖 Passionate about **Agentic AI Systems**, **LLMOps**, and **Deep Learning**
+- 🌱 Currently scaling AI workflows and exploring **Cloud-Native Development**
+- 🎯 Goal: Redefining how businesses operate using intelligent automation.
+- 📫 Let's talk business: **ladesamir10@gmail.com**
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
-### **Languages**
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) |
+| **AI / ML** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Scikit](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) |
+| **Data Engine** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
+| **Frameworks** | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white) |
+| **DevOps/Cloud** | ![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
 
-### **AI/ML & Data Science**
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-</p>
+---
 
-### **Web Development & Frameworks**
-<p align="center">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-</p>
+## 📈 GitHub Stats
 
-### **Cloud & DevOps**
 <p align="center">
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-### **Databases & Tools**
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sam-Dev-AI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Dev-AI&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect & Collaborate
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sam-Dev-AI)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ladesamir10@gmail.com)
+[![Website](https://img.shields.io/badge/Claroz_Website-00FF7F?style=for-the-badge&logo=google-chrome&logoColor=black)](https://claroz.in)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samir_lade_22/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ladesamir10@gmail.com)
 
 </div>
 
@@ -92,8 +64,8 @@ I'm a **first-year BCA student** with a deep passion for **Artificial Intelligen
 
 <div align="center">
 
-### 💡 *"Turning data into insights, and insights into impact"* 💡
+### 💡 *"Automating the present, engineering the future."* 💡
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF7F,100:0066FF&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF7F,100:0066FF&height=120&section=footer&text=Let's%20Build%20Something%20Great!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
 
 </div>
