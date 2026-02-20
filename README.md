@@ -49,10 +49,10 @@
 
   <br><br>
 
+  <!-- Nexus Project Card using reliable stats format -->
   <a href="https://github.com/Sam-Dev-AI/AI-Stock-Analyst">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sam-Dev-AI&repo=AI-Stock-Analyst&theme=dark&bg_color=0d1117&title_color=00FF7F&text_color=c9d1d9&icon_color=0066FF&hide_border=true&description_lines_count=2" alt="Nexus AI Stock Analyst" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sam-Dev-AI&repo=AI-Stock-Analyst&theme=transparent&hide_border=true&title_color=00FF7F&text_color=c9d1d9&icon_color=0066FF&bg_color=0d1117" alt="Nexus AI Stock Analyst" />
   </a>
-  <p><b>Nexus:</b> An advanced AI Agent for deep stock research, technical analysis, and automated paper trading.</p>
 
 </div>
 
@@ -85,24 +85,20 @@
 ---
 
 <div align="center">
-  <h2>📊 Real-Time GitHub Analytics</h2>
+  <h2>📊 Real-Time Analytics</h2>
 </div>
 
+<!-- Modern, Reliable Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sam-Dev-AI&theme=react-dark&bg_color=0d1117&color=00FF7F&line=0066FF&point=ffffff&hide_border=true" alt="Samir GitHub Activity Graph" width="90%"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sam-Dev-AI&show_icons=true&title_color=00FF7F&icon_color=0066FF&text_color=c9d1d9&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Dev-AI&layout=compact&title_color=00FF7F&text_color=c9d1d9&bg_color=0d1117&hide_border=true&langs_count=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sam-Dev-AI&theme=react-dark&bg_color=0d1117&color=00FF7F&line=0066FF&point=ffffff&hide_border=true" alt="Samir GitHub Activity Graph" width="100%"/>
 </div>
 
 <br>
 
+<!-- Repaired Static Summary Stats side-by-side -->
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-Dev-AI&title_color=00FF7F&icon_color=0066FF&text_color=c9d1d9&background=0d1117&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sam-Dev-AI&show_icons=true&theme=transparent&title_color=00FF7F&text_color=c9d1d9&icon_color=0066FF&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Dev-AI&layout=compact&theme=transparent&title_color=00FF7F&text_color=c9d1d9&bg_color=0d1117&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
 
 <br>
